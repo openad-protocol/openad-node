@@ -20,8 +20,7 @@ OpenAD Protocol is an innovative in-app advertising solution designed to connect
 
 ### Prerequisites
 
-- Node.js
-- npm
+- Golang
 
 ### Installation
 
@@ -35,15 +34,8 @@ OpenAD Protocol is an innovative in-app advertising solution designed to connect
     ```
 3. Install the dependencies:
     ```bash
-    npm install
+    go build
     ```
-
-### Running the Project
-
-To start the development server, run:
-```bash
-npm start
-```
 
 ## Contributing
 

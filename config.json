@@ -1,0 +1,15 @@
+{
+	"netWorkId": 1,
+	"walletName": "mainnet.dat",
+	"gasPrice": 0,
+	"layer2Contract": "2fd3b91c90711ac1a602e8ac7781c83040ff8d6c",
+	"layer2WitContract": "10c1b2b4e17ea5ed604d6cbff311330dd702bf97",
+	"layer2MainNetNode": "http://107.155.55.167:40336",
+	"layer2TestNetNode": "http://152.32.217.204:40336",
+	"layer2RecordInterval": 6,
+	"layer2RecordBatchC": 30,
+	"layer2RetryCount": 600,
+	"enableSendService": false,
+	"restPort": "8066",
+	"explorerUrl": "https://explorer.ont.io"
+}
